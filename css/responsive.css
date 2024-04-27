@@ -1,0 +1,1904 @@
+@media screen and (    
+max-width:1648px){
+    #two .one{
+        margin-left: 98px;
+    }
+}   
+
+
+@media screen and (    
+max-width:1725px){
+    #two .one{
+        width: 1400px;
+        height: 605px;
+    }
+
+    #two .one img{
+        width: 660px;
+        height: 605px;
+    }
+}
+
+
+    @media screen and (    
+max-width:1497px){
+    #two .one{
+        width: 1100px;
+        height: 605px;
+        margin-left: 215px;
+    }
+
+    #two .one img{
+        width: 560px;
+        height: 605px;
+    }
+    
+    #two .two .left h1,#two .two .left p {
+        margin-left: 50px;
+    }
+
+    #two .two .right{
+        margin-right: 210px;
+    }
+
+    #two .two .right .curve{
+        margin-top: 65px;
+    }
+
+    #two .two .right .curve .a{
+        width: 450px;
+    }
+
+    #two .two .right a{
+        width: 115px;
+        height: 115px;
+    }
+
+    #two .two .right .sui{
+        margin-left: 34px;
+        margin-top: -28px;
+    }
+    
+    #two .two .curve .a1{
+        margin-top: 11px;
+        position: absolute;
+        margin-left: -145px;
+    }
+    
+    #two .a1 p{
+        text-align: center;
+        font-size: 14px;
+        margin: 0;
+        line-height: 1;
+    }
+    
+    #two .two .curve .a2{
+        margin-top: 48px;
+        position: absolute;
+        margin-left: -291px;
+    }
+    
+    #two .two .right .suii{
+        margin-left: 24px;
+        margin-top: -14px;
+        width: 67px;
+    }
+    
+    #two .a2 p{
+        text-align: center;
+        font-size: 16px;
+        margin: 0;
+        margin-top: 0px;
+        font-weight: 100;
+        line-height: 18px;
+    }
+    
+    #two .two .curve .a3{
+        margin-top: 14px;
+        position: absolute;
+        margin-left: -436px;
+    }
+    
+    #two .two .right .suiii{
+        margin-left: 31px;
+        margin-top: -30px;
+        width: 50px;
+        height: 52px;
+    }
+    
+    #two .a3 p{
+        text-align: center;
+        font-size: 16px;
+        margin: 0;
+        margin-top: 3px;
+        margin-left: -5px;
+        font-weight: 100;
+    }
+    
+    #two .two .curve .a4{
+        margin-top: 127px;
+        position: absolute;
+        margin-left: -484px;
+    }
+    
+    #two .two .right .suiiii{
+        margin-left: 30px;
+        margin-top: -36px;
+        width: 50px;
+        height: 64px;
+    }
+    
+    #two .a4 p{
+        text-align: center;
+        font-size: 13px;
+        margin: 0;
+        line-height: 1.2;
+        margin-top: -8px;
+        font-weight: 100;
+    }
+    
+    #two .two .curve .a5{
+        margin-top: 184px;
+        position: absolute;
+        margin-left: -345px;
+    }
+    
+    #two .two .right .suiiiii{
+        margin-left: 29px;
+        margin-top: -34px;
+        width: 50px;
+        height: 64px;
+    }
+    
+    #two .a5 p{
+        text-align: center;
+    font-size: 15px;
+    margin: 0;
+    font-weight: 100;
+    margin-top: -7px;
+    }
+    
+    #two .two .curve .a6{
+        margin-top: 177px;
+        position: absolute;
+        margin-left: -193px;
+    }
+    
+    #two .two .right .suiiiiii{
+        margin-left: 33px;
+        margin-top: -38px;
+        width: 50px;
+        height: 64px;
+    }
+    
+    #two .a6 p{
+        text-align: center;
+        font-size: 16px;
+        margin: 0;
+        font-weight: 100;
+    }
+    
+    #two .two .curve .a7{
+        margin-top: 219px;
+        position: absolute;
+        margin-left: -77px;
+    
+    }
+    
+    #two .two .right .suiiiiiii{
+        margin-left: 33px;
+        margin-top: -33px;
+        width: 50px;
+        height: 64px;
+    }
+    
+    #two .a7 p{
+        text-align: center;
+        font-size: 16px;
+        margin: 0;
+        margin-top: -11px;
+        font-weight: 100;
+        line-height: 1;
+    }
+    
+
+    #two .three h1{
+        margin-left: 9px;
+    }
+
+    #two .three .makkah{
+        margin-left: -170px;
+    }
+   
+    #two .four{
+        margin-left: -185px;
+    }
+
+    footer .container {
+        width: 68%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-left: 291.5px;
+        height: 360px;
+        background-image: url(../img/alhadi-business-logo.svg);
+        background-position: 159px;
+    }
+
+}
+
+@media screen and (max-width:1315px){
+
+    #two .one {
+        width: 1000px;
+        height: 605px;
+        margin-left: 155px;
+    }
+
+    #two .one img {
+        width: 500px;
+        height: 605px;
+    }
+
+    #two .one h3 {
+        color: white;
+        font-size: 39px;
+        margin-top: 85px;
+        position: absolute;
+        font-weight: 600;
+        margin-left: 65px;
+    }
+
+    #two form {
+        margin-left: 65px;
+        margin-top: 120px;
+    }
+
+    #two .two .left {
+        margin-left: -75px;
+    }
+
+    #two .two .right {
+        margin-right: 200px;
+    }
+
+    #two .three h1 {
+        margin-left: -31px;
+    }
+
+    #two .three .makkah {
+        margin-left: -300px;
+    }
+
+    #two .four {
+        margin-left: -305px;
+        margin-top: 35px;
+    }
+
+    footer .container {
+        background-position: 30px;
+    }
+
+
+}
+
+@media screen and (max-width:1256px) {
+    body .mobile-nav {
+        display: none;
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        background-color: #375c6e;
+        z-index: 1000;
+        overflow-x: scroll;
+    }
+}
+
+@media screen and (max-width:1199px){
+    #one .left {
+        margin-left: 80px;
+        padding-top: 158px;
+        background-color: #375c6e;
+        width: 243px;
+        border-bottom-left-radius: 26em;
+        position: fixed;
+        border-bottom-right-radius: 6em;
+        height: 280.5px;
+    }
+
+    footer .container {
+        width: 79%;
+        margin-left: 166.5px;
+        background-position: 78px;
+    }
+
+    #two .one {
+        width: 920px;
+        height: 540px;
+        margin-left: 137px;
+    }
+
+    #two .one img {
+        width: 451px;
+        height: 540px;
+    }
+
+    #two .two .right {
+        margin-right: 98px;
+    }
+
+    #two .three .makkah {
+        margin-left: -358px;
+    }
+
+    #two .four svg {
+        margin-left: 465px;
+        margin-top: 80px;
+        width: 800px;
+    }
+
+    #two .four a {
+        padding-top: 44px;
+        width: 105px;
+        height: 105px;
+        display: inline-block;
+        border-radius: 50%;
+        background: #00749a;
+    }
+
+    #two .four h1 {
+        position: absolute;
+        margin-left: 608px;
+        margin-top: 67px;
+        color: white;
+        font-size: 22px;
+        font-weight: 800;
+        letter-spacing: 22px;
+    }
+
+    #two .four .a3 {
+        margin-top: 104px;
+        position: absolute;
+        margin-left: -820px;
+    }
+
+    #two .four .a7 {
+        margin-top: 241px;
+        position: absolute;
+        margin-left: -470px;
+    }
+
+    #two .four .a1 {
+        margin-top: 104px;
+        position: absolute;
+        margin-left: -87px;
+    }
+
+    #two .four {
+        margin-left: -260px;
+        margin-top: 35px;
+    }
+
+    #two .four .suiii {
+        margin-left: 27px;
+        margin-top: -32px;
+        width: 50px;
+        height: 47px;
+    }
+
+    #two .four .a3 p {
+        text-align: center;
+        font-size: 17px;
+        margin: 0;
+        color: white;
+        margin-top: 0px;
+        font-weight: 100;
+        line-height: 1;
+    }
+
+    #two .four .suiiiiiii {
+        margin-left: 29px;
+        margin-top: -40px;
+        width: 50px;
+        height: 64px;
+    }
+
+    #two .four .a7 p {
+        text-align: center;
+        font-size: 14px;
+        margin: 0;
+        line-height: 1;
+        margin-top: -7px;
+        font-weight: 100;
+        color: white;
+    }
+
+    #two .four .sui {
+        margin-left: 28px;
+        margin-top: -24px;
+    }
+
+    #two .four .a1 p {
+        text-align: center;
+        font-size: 13px;
+        margin: 0;
+        color: white;
+        font-weight: 100;
+        line-height: 1;
+        margin-top: 0px;
+    }
+    
+    
+
+}
+
+
+@media screen and (max-width:1092px){
+    #one .right .a:nth-child(1){
+        display: none;
+    }
+
+    footer .container {
+        width: 87%;
+        margin-left: 79.5px;
+        background-position: 119px;
+    }
+
+    #one .right .a:nth-child(2){
+        display: none;
+    }
+
+    #one .right .a:nth-child(3){
+        display: none;
+    }
+
+    #one .right .menu-button img {
+        margin-left: 208px;
+        margin-top: -19px;
+    }
+
+    #one .right .a:nth-child(4){
+        display: none;
+    }
+
+    #one .right .a:nth-child(6) img {
+        position: absolute;
+        margin-left: 160px;
+        height: 36px;
+        margin-top: -17px;
+    }
+
+    #one .right .a:nth-child(5) p {
+        margin-left: 67px;
+        margin-top: 7px;
+        color: white;
+        position: absolute;
+        font-weight: 400;
+    }
+
+    #one .right .a:nth-child(5) img {
+        margin-left: 28px;
+        margin-top: 6px;
+        width: 23px;
+        position: absolute;
+    }
+
+    #one .right {
+        right: 0;
+        padding-left: 1.2%;
+        padding-top: 50px;
+        position: fixed;
+        width: 264px;
+        height: 93px;
+        background-color: #375c6e;
+        border-bottom-left-radius: 4.5em;
+    }   
+
+    #two .one {
+        width: 840px;
+        height: 500px;
+        margin-left: 114px;
+    }
+
+    #two .one img {
+        width: 420px;
+        height: 500px;
+    }
+
+    #two form {
+        margin-left: 65px;
+        overflow: hidden;
+        width: 275px;
+        margin-top: 120px;
+    }
+
+    #two .one input, select, ::placeholder {
+        border-bottom: 1px solid #dfdfdf;
+        margin-top: 48px;
+        width: 277px;
+        color: white;
+    }
+
+    #two form {
+        margin-left: 65px;
+        overflow: hidden;
+        width: 275px;
+        margin-top: 102px;
+    }
+
+    #two .two .left h1 {
+        color: white;
+        font-size: 50px;
+        font-weight: 600;
+    }
+
+    #two .two .left h1,#two .two .left  p {
+        margin-left: 18px;
+    }
+
+    #two .two .right .curve .a {
+        display: none;
+    }
+
+    #two .two .curve .a1 {
+        margin-top: 21px;
+        margin-left: 215px;
+    }
+
+    #two .two .curve .a2 {
+        margin-top: 21px;
+        margin-left: 92px;
+    }
+
+    #two .two .curve .a3 {
+        margin-top: 325px;
+        margin-left: 92px;
+    }
+
+    #two .two .curve .a4 {
+        margin-top: 105px;
+        margin-left: -122px;
+    }
+
+    #two .two .curve .a5 {
+        margin-top: 325px;
+        position: absolute;
+        margin-left: 215px;
+    }
+
+    #two .two .curve .a6 {
+        margin-top: 184px;
+        position: absolute;
+        margin-left: 92px;
+    }
+
+    #two .two .curve .a7 {
+        margin-top: 184px;
+        position: absolute;
+        margin-left: 215px;
+    }
+
+    #two .two .curve .a4 {
+        margin-top: 185px;
+        margin-left: -33px;
+    }
+
+    #two .two .right .curve {
+        margin-top: 0px;
+    }
+
+    #two .three .makkah {
+        margin-left: -411px;
+    }
+
+    #two .four h1 {
+        margin-left: 546px;
+    }
+
+    #two .four svg {
+    display: none;
+    }
+
+    #two .four .a3 {
+        margin-top: 170px;
+        margin-left: 534px;
+    }
+
+    #two .four .a7 {
+        margin-top: 170px;
+        margin-left: 769px;
+    }
+
+    #two .four .a1 {
+        margin-top: 170px;
+        margin-left:957px;
+    }
+
+    #two .one {
+        width: 820px;
+        height: 500px;
+        margin-left: 114px;
+    }
+
+}
+
+@media screen and (max-width:936px){
+    #one .left {
+        margin-left: 53px;
+        padding-top: 158px;
+        background-color: #375c6e;
+        width: 199px;
+        border-bottom-left-radius: 26em;
+        position: fixed;
+        border-bottom-right-radius: 6em;
+        height: 238.5px;
+    }
+
+    footer .container {
+        width: 100%;
+        margin-left:0;
+    }
+
+    #one .left p {
+        color: white;
+        margin-top: -16px;
+        width: 91px;
+        margin-left: 80px;
+        font-size: 12px;
+    }
+
+    #one .left img {
+        width: 170px;
+        margin-top: -37px;
+    }
+
+
+    #two .one h3 {
+        color: white;
+        font-size: 39px;
+        margin-top: 33px;
+        position: absolute;
+        font-weight: 600;
+        margin-left: 286px;
+    }
+
+    #two .two .left h1 {
+        color: white;
+        font-size: 70px;
+        font-weight: 600;
+    }
+
+    #two .two .left h1, p {
+        margin-left: -13px;
+    }
+
+    #two .two .left p {
+        margin-top: 25px;
+        font-size: 24px;
+        color: black;
+    }
+
+    #two .two .right a {
+        width: 191px;
+        height: 136px;
+        border-radius: 0%;
+    } 
+
+    #two .two .right .suii {
+        margin-left: 59px;
+        margin-top: -13px;
+        width: 72px;
+        position: absolute;
+    }
+
+    #two .a2 p {
+        text-align: center;
+        font-size: 16px;
+        margin: 0;
+        margin-top: 39px;
+        font-weight: 100;
+        line-height: 18px;
+    }    
+
+#two .two .right .sui {
+    margin-left: 68px;
+    margin-top: -24px;
+    width: 55px;
+    position: absolute;
+}
+
+#two .a1 p {
+    text-align: center;
+    font-size: 18px;
+    margin: 0;
+    line-height: 1;
+    margin-top: 38px;
+}
+
+#two .two .right .suiiii {
+    margin-left: 72px;
+    margin-top: -16px;
+    width: 50px;
+    height: 56px;
+}
+
+    #two .two .right .suiiiiii {
+        margin-left: 70px;
+        margin-top: -21px;
+        width: 50px;
+        height: 64px;
+    }
+
+    #two .two .right .suiiiiiii {
+        margin-left: 60px;
+        margin-top: -45px;
+        width: 68px;
+        height: 83px;
+    }
+
+    #two .two .right .suiii {
+        margin-left: 68px;
+        margin-top: -32px;
+        width: 51px;
+        height: 66px;
+    }
+
+    #two .two .right .suiiiii {
+        margin-left: 69px;
+        margin-top: -27px;
+        width: 45px;
+        height: 64px;
+    }
+
+    #two .a5 p {
+        text-align: center;
+        font-size: 13px;
+        margin: 0;
+        font-weight: 100;
+        margin-top: -7px;
+    }
+
+    #two .three .makkah {
+        margin-left: -524px;
+    }
+
+    #two .four {
+        margin-left: -339px;
+        margin-top: 35px;
+    }
+
+    #two .one img {
+        display: none;
+    }
+
+    #two .one {
+        width: 100%;
+        height: 435px;
+        margin-left: 0px;
+        margin-top: 90px;
+        border-radius: unset;
+    }
+
+    #two .one {
+        width: 100%;
+        height: 461px;
+        margin-left: 0px;
+        margin-top: 90px;
+        grid-template-columns: none;
+        border-radius: unset;
+    }
+
+    #two form {
+        margin-left: 65px;
+        overflow: hidden;
+        width: 80%;
+        margin-top: 102px;
+    }
+
+    #two .one input, select, ::placeholder {
+        border-bottom: 1px solid #dfdfdf;
+        margin-top: 48px;
+        width: 100%;
+        color: white;
+    }
+
+    #two form {
+        margin-left: 200px;
+        overflow: hidden;
+        width: 65%;
+        margin-top: 102px;
+    }
+
+    #two .one button {
+        margin-top: 42px;
+        background: #1eb1e3;
+        border-radius: 1em;
+        color: white;
+        height: 50px;
+        width: 122px;
+        margin-left: 214px;
+        font-weight: 700;
+    }
+
+    #two .two .right {
+        margin-top: 531px;
+        margin-left: -260px;
+    }
+    
+    #two .one h3 {
+        color: white;
+        font-size: 39px;
+        margin-top: 33px;
+        position: absolute;
+        font-weight: 600;
+        margin-left: 344px;
+    }
+
+    #two .two .curve .a2 {
+        margin-top: 8%;
+        margin-left: -38%;
+    }
+
+    #two .two .curve .a1 {
+        margin-top: 8%;
+        margin-left: -12%;
+    }
+
+    #two .two .curve .a6 {
+        margin-top: 8%;
+        position: absolute;
+        margin-left: 14%;
+    }
+
+    #two .two .curve .a7 {
+        margin-top: 27%;
+        position: absolute;
+        margin-left: -12%;
+    }
+
+    #two .two .curve .a3 {
+        margin-top: 27%;
+        margin-left: -38%;
+    }
+
+    #two .two .curve .a5 {
+        margin-top: 27%;
+        position: absolute;
+        margin-left: 14%;
+    }
+
+    #two .two .curve .a4 {
+        margin-top: 45%;
+        margin-left: -12%;
+    }
+
+    #two .three .makkah {
+        margin-left: -474px;
+        margin-top: 177px;
+    }
+
+    #two .three h1 {
+        margin-left: -31px;
+        margin-top: 523px;
+    }
+
+    #two .three .makkah {
+        margin-left: -489px;
+        margin-top: 79px;
+    }
+
+    #two .two .left {
+        margin-left: 54px;
+        width: 495px;
+    }
+
+}
+
+
+@media screen and (max-width: 768px){
+    #one .middle h1 {
+        font-weight: 600;
+        font-size: 35px;
+    }
+
+    #one .middle {
+        margin-left: 96px;
+        margin-top: 293px;
+        padding-bottom: 30px;
+        color: white;
+        font-size: 31px;
+    }
+
+    #two .one .div{
+        margin-left: -88px;
+    }
+
+    #two .two {
+        margin-left: 175px;
+        margin-left: 62px;
+        margin-top: 80px;
+        padding-bottom: 60px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    #two .three .makkah {
+        margin-left: -96%;
+        margin-top: 79px;
+    }
+
+    #two .three .two a {
+        margin-top: 530px;
+        position: absolute;
+        margin-left: 671px;
+    }
+
+    #two .four {
+        margin-left: -400px;
+        margin-top: 35px;
+    }
+
+    #two .four a {       
+        width: 124px;
+        height: 124px;
+        border-radius: 0;
+    }
+
+    #two .four .suiii {
+        margin-left: 37px;
+        margin-top: -32px;
+        width: 50px;
+        height: 58px;
+    }
+
+    #two .four .suiiiiiii {
+        margin-left: 37px;
+        margin-top: -30px;
+        width: 50px;
+        height: 64px;
+    }
+
+    #two .four .sui {
+        margin-left: 38px;
+        margin-top: -24px;
+    }
+
+    #two .two .curve .a4 {
+        margin-top: 58%;
+    }
+
+    #two .two .right .curve {
+        margin-left: 14%;
+    }
+
+    #two .two .curve .a2 {
+        margin-top: 8%;
+        margin-left: -43%;
+    }
+
+    #two .two .curve .a6 {
+        margin-top: 8%;
+        position: absolute;
+        margin-left: 18%;
+    }
+
+#two .two .curve .a3 {
+    margin-top: 32%;
+    margin-left: -43%;
+}
+
+#two .two .curve .a7 {
+    margin-top: 32%;
+}
+
+#two .two .curve .a5 {
+    margin-top: 32%;
+    position: absolute;
+    margin-left: 18%;
+}
+
+    #two .two .right a {
+        width: 155px;
+        height: 130px;
+        border-radius: 0%;
+    }
+
+    #two .two .right .suii {
+        margin-left: 44px;
+        margin-top: -13px;
+        width: 72px;
+        position: absolute;
+    }
+
+    #two .two .right .sui {
+        margin-left: 54px;
+        margin-top: -31px;
+        width: 50px;
+        position: absolute;
+    }   
+
+    #two .a1 p {
+        text-align: center;
+        font-size: 18px;
+        margin: 0;
+        line-height: 1;
+        margin-top: 27px;
+    }
+
+    #two .two .right .suiiiiii {
+        margin-left: 52px;
+        margin-top: -29px;
+        width: 50px;
+        height: 64px;
+    }
+
+    #two .two .right .suiii {
+        margin-left: 52px;
+        margin-top: -32px;
+        width: 51px;
+        height: 66px;
+    }
+
+    #two .two .right .suiiiiiii {
+        margin-left: 43px;
+        margin-top: -45px;
+        width: 68px;
+        height: 83px;
+    }
+
+    #two .two .right .suiiiii {
+        margin-left: 54px;
+        margin-top: -27px;
+        width: 45px;
+        height: 64px;
+    }
+
+    #two .two .right .suiiii {
+        margin-left: 53px;
+        margin-top: -22px;
+        width: 50px;
+        height: 56px;
+    }
+
+    #two .one  h3{
+        margin-left: 270px;
+    }
+
+    #two form {
+        margin-left: 150px;
+        margin-top: 85px;
+    }    
+
+    #two .three h1 {
+        margin-left: 0px;
+        margin-top: 585px;
+    }
+
+    #two .three .makkah {
+        margin-left: -72%;
+        margin-top: -46px;
+    }
+    
+    footer .row {
+        text-transform: uppercase;
+        margin-right: -15px;
+        margin-left: -15px;
+        line-height: 30.5px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    footer .container {
+        height: 500px;
+        background-image:unset;
+        margin-top: 30px;
+    }
+
+    footer .centered {
+        margin-bottom: 31px;
+    }
+
+    #one .left {
+        background-color: unset;
+        position: fixed;
+        top: -119px;
+        left: -89px;
+    }
+
+
+
+    #one .right li:nth-child(5) {
+        display: none;
+    }
+
+    #one .right {
+        right: 0;
+        position: fixed;
+        width: 121px;
+        height: 93px;
+        background-color: #375c6e8f;
+        border-bottom-left-radius: 4.5em;
+    }
+
+    .menu-button {
+        display: block;
+        margin-left: -149px;
+        margin-top: 19px;
+    }
+
+}
+
+@media screen and (max-width:700px) {
+    #two .three .makkah {
+        margin-left: -86%;
+        margin-top: -46px;
+    }
+
+    #two .four {
+        margin-left: -444px;
+        margin-top: 35px;
+    }
+}
+
+@media screen and (max-width: 666px){
+    #two .two .right .curve {
+        margin-left: -3%;
+    }
+
+    #two .three .makkah {
+        margin-left: -575px;
+        margin-top: -46px;
+    }
+
+    #two .three .two a {
+        margin-top: 439px;
+        position: absolute;
+        margin-left: 671px;
+    }
+
+    #two .four {
+        margin-left: -464px;
+        margin-top: 35px;
+    }
+
+    #two .three .makkah .three img {
+    width: 415px;
+    border-radius: 2em;
+    height: 415px;
+    margin-left: 700px;
+}
+}
+
+@media screen and (max-width:618px) {
+
+    #two .four .a3 {
+        margin-top: 170px;
+        margin-left: 554px;
+    }
+
+    #two .four .a7 {
+        margin-top: 170px;
+        margin-left: 728px;
+    }
+
+    #two .four .a1 {
+        margin-top: 170px;
+        margin-left: 900px;
+    }
+
+    #two .four {
+        margin-left: -484px;
+        margin-top: 35px;
+    }
+
+    #two .two .right .curve {
+        margin-left: -36px;
+    }
+
+    #two .two .left p {
+        margin-top: 25px;
+        font-size: 21px;
+        color: black;
+        margin-left: -14px;
+        width: 399px;
+    }
+
+    #two .two .left h1 {
+        color: white;
+        font-size: 54px;
+        font-weight: 600;
+        width: 243px;
+    }
+
+    #two .two {
+        display: unset;
+    }
+
+    #two .two .left{
+        width: 0;
+    }
+
+    #two .two .right {
+        margin-top: 15px;
+        margin-left: 320px;
+    }
+
+    #two .three .makkah {
+        margin-left: -600px;
+        margin-top: 62px;
+    }
+
+    #two .three .onee p {
+        font-size: 30px;
+        color: black;
+        font-weight: 900;
+        margin-top: -44px;
+    }
+
+    #two .three .two a {
+        margin-top: 400px;
+        position: absolute;
+        margin-left: 671px;
+    }
+
+    #two .four h1 {
+        margin-left: 531px;
+        width: 523px;
+    }
+
+    #two .four h1 {
+        margin-left: 531px;
+        width: 523px;
+    }
+
+    #two .one h3 {
+    margin-left: 185px;
+    }
+
+    #two form {
+    margin-left: 109px;
+    margin-top: 85px;
+    }
+
+    #two .one button {
+        margin-left: 135px;
+        margin-top: 29px;
+    }
+
+    #two .four h1 {
+        margin-left: 581px;
+        width: 418px;
+        letter-spacing: 15px;
+    }   
+
+    #two .four .a3 {
+        margin-top: 170px;
+        margin-left: 524px;
+    }
+
+    #two .four .a7 {
+        margin-top: 170px;
+        margin-left: 705px;
+    }
+
+    #two .four .a1 {
+        margin-top: 170px;
+        margin-left: 865px;
+    }       
+
+    #two .four .a3 {
+        margin-top: 170px;
+        margin-left: 545px;
+    }
+
+    #two .four h1 {
+        margin-left: 557px;
+        width: 418px;
+        letter-spacing: 15px;
+    }
+}
+
+@media screen and (max-width:546px){
+    #two .two .curve .a4 {
+        margin-top: 100%;
+    }
+
+    #two .two .curve .a5 {
+        margin-top: 62%;
+        position: absolute;
+        margin-left: -43%;
+    }
+
+    #two .two .curve .a3 {
+        margin-top: 35%;
+        margin-left: -43%;
+    }
+
+    #two .two .curve .a7 {
+        margin-top: 35%;
+    }
+
+    #two .two .curve .a6 {
+        margin-top: 62%;
+        position: absolute;
+        margin-left: -12%;
+    }
+
+    #two .two .curve .a4 {
+        margin-top: 89%;
+        margin-left: -150px;
+    }
+
+    #two .two .right .curve {
+        margin-left: 31px;
+    }
+
+    #two .three h1 {
+        margin-left: 0px;
+        margin-top: 736px;
+    }
+
+    #two .three .makkah .three img {
+        width: 355px;
+        border-radius: 2em;
+        height: 355px;
+        margin-left: 680px;
+    }
+
+    #two .three .onee p {
+        font-size: 23px;
+        color: black;
+        font-weight: 900;
+        margin-top: -44px;
+    }
+
+    #two .three .two a {
+        margin-top: 341px;
+        position: absolute;
+        margin-left: 647px;
+    }
+
+    #two .four .a1 {
+        margin-top: 323px;
+        margin-left: 707px;
+    }
+
+    #two .four .a7 {
+        margin-top: 170px;
+        margin-left: 779px;
+    }
+
+    #two .four .a3 {
+        margin-top: 170px;
+        margin-left: 627px;
+    }
+
+}
+
+@media screen and (max-width:502px) {
+    #two .two .right a {
+        width: 130px;
+        height: 110px;
+    }
+
+    #two .two .right .suii {
+        margin-left: 38px;
+        margin-top: -23px;
+        width: 55px;
+    }
+
+    #two .a2 p {
+        text-align: center;
+        font-size: 16px;
+        margin: 0;
+        margin-top: 19px;
+        font-weight: 100;
+        line-height: 18px;
+    }
+
+    #two .two .right .sui {
+        margin-left: 43px;
+        margin-top: -35px;
+        width: 41px;
+        position: absolute;
+    }
+
+    #two .a1 p {
+        text-align: center;
+        font-size: 18px;
+        margin: 0;
+        line-height: 1;
+        margin-top: 11px;
+    }
+
+    #two .two .right .suiii {
+        margin-left: 37px;
+        margin-top: -32px;
+        width: 51px;
+        height: 51px;
+    }
+
+    #two .two .right .suiiiiiii {
+        margin-left: 35px;
+        margin-top: -45px;
+        width: 61px;
+        height: 68px;
+    }
+
+    #two .two .right .suiiiii {
+        margin-left: 40px;
+        margin-top: -38px;
+        width: 45px;
+        height: 64px;
+    }
+
+    #two .two .right .suiiiiii {
+        margin-left: 45px;
+        margin-top: -29px;
+        width: 42px;
+        height: 54px;
+    }  
+    
+    #two .two .curve .a4 {
+        margin-top: 89%;
+        margin-left: -138px;
+    }
+
+    #two .two .right .curve {
+        margin-left: 8px;
+    }
+    
+    #two .two .right .suiiii {
+        margin-left: 40px;
+        margin-top: -32px;
+        width: 50px;
+        height: 56px;
+    }
+
+    #two .four {
+        margin-left: -505px;
+        margin-top: 35px;
+    }
+
+    #two .one h3 {
+        margin-left: 143px;
+    }   
+
+    #two .one button {
+        margin-left: 108px;
+        margin-top: 29px;
+    }
+
+    #two .four h1 {
+        margin-left: 541px;
+        width: 418px;
+        letter-spacing: 15px;
+    }   
+
+    #two .four h1 {
+        margin-left: 575px;
+        width: 388px;
+        letter-spacing: 13px;
+    }
+    
+}
+
+@media screen and (max-width:462px) {
+    #two .four {
+        margin-left: -542px;
+        margin-top: 35px;
+    }
+
+    #two .three .makkah .three img {
+        width: 355px;
+        border-radius: 2em;
+        height: 355px;
+        margin-left: 656px;
+    }
+
+    #two .two .right .curve {
+        margin-left: -29px;
+    }
+
+    #two .two .left p {
+        margin-top: 25px;
+        font-size: 18px;
+        color: black;
+        margin-left: -14px;
+        width: 338px;
+    }
+
+    #two .four h1 {
+        margin-left: 603px;
+        width: 327.43px;
+        letter-spacing: 9px;
+    }
+
+}
+
+@media screen and (max-width:425px) {
+    #one .middle h1 {
+        font-weight: 600;
+        font-size: 35px;
+        margin-top: -54px;
+        margin-left: -57px;
+    }
+
+    #one .middle p {
+        width: 118px;
+        color: white;
+        border: 1px solid white;
+        padding-left: 12px;
+        border-radius: 1em;
+        margin-left: -57px;
+    }
+
+    #two .one h3 {
+        margin-left: 99px;
+    }
+
+    #two form {
+        margin-left: 79px;
+        margin-top: 85px;
+    }
+
+    #two .one button {
+        margin-left: 66px;
+        margin-top: 29px;
+    }
+
+    #two .two .curve .a2 {
+        margin-top: 8%;
+        margin-left: -54%;
+    }
+
+    #two .two .curve .a3 {
+        margin-top: 37%;
+        margin-left: -54%;
+    }
+
+    #two .two .curve .a5 {
+        margin-top: 66%;
+        position: absolute;
+        margin-left: -54%;
+    }
+
+    #two .two .curve .a7 {
+        margin-top: 37%;
+    }
+
+    #two .two .curve .a6 {
+        margin-top: 66%;
+        position: absolute;
+        margin-left: -12%;
+    }
+    
+    #two .two .curve .a4 {
+        margin-top: 104%;
+        margin-left: -138px;
+    }
+
+    #two .three h1 {
+        margin-left: 0px;
+        margin-top: 666px;
+    }
+
+    #two .three .makkah .three img {
+        width: 330px;
+        border-radius: 2em;
+        height: 330px;
+        margin-left: 652px;
+    }
+
+    #two .three .onee {
+        position: absolute;
+        margin-top: 82px;
+        margin-left: 691px;
+    }
+
+    #two .three .two a {
+        margin-top: 321px;
+        position: absolute;
+        margin-left: 619px;
+    }
+
+    #two .four h1 {
+        margin-left: 622px;
+        width: 282.43px;
+        letter-spacing: 6px;
+    }
+
+    footer .row {
+        grid-template-columns: 1fr;
+    }
+
+    footer .container {
+        height: 840px;
+        background-image: none;
+        margin-top: 30px;
+    }
+
+    footer .centered {
+        margin-left: 65px;
+        margin-right: auto;
+    }
+
+    #two .three .makkah .three img {
+        width: 306px;
+        border-radius: 2em;
+        height: 306px;
+        margin-left: 661px;
+    }
+
+    #two .three .two a {
+        margin-top: 298px;
+        position: absolute;
+        margin-left: 619px;
+    }
+
+    #two .two .left p {
+        margin-top: 25px;
+        font-size: 16px;
+        color: black;
+        margin-left: -14px;
+        width: 301px;
+    }
+
+    #two .two .curve .a1 , #two .two .curve .a7 , #two .two .curve .a6 {
+        margin-left: -17%;
+    }
+
+}
+
+@media screen and (max-width:375px) {
+    #two .one h3 {
+        margin-left: 79px;
+    }
+
+    #two .two .left p {
+        margin-top: 25px;
+        font-size: 14px;
+        color: black;
+        margin-left: -14px;
+        width: 263px;
+    }
+
+    #two .two .left h1 {
+        color: white;
+        font-size: 48px;
+        font-weight: 600;
+        width: 243px;
+    }
+
+    #two .two .right .curve {
+        margin-left: -59px;
+    }
+
+    #two .two .curve .a3 {
+        margin-top: 41%;
+        margin-left: -56%;
+    }
+
+    #two .two .curve .a2 {
+        margin-top: 8%;
+        margin-left: -56%;
+    }
+
+    #two .two .curve .a5 {
+        margin-top: 74%;
+        position: absolute;
+        margin-left: -56%;
+    }
+
+    #two .two .curve .a1, #two .two .curve .a7, #two .two .curve .a6     {
+        margin-left: -16%;
+    }
+
+    #two .two .curve .a7 {
+        margin-top: 41%;
+    }
+
+    #two .two .curve .a6 {
+        margin-top: 74%;
+    }
+
+    #two .two .curve .a4 {
+        margin-top: 108%;
+        margin-left: -138px;
+    }
+
+    #two .three .makkah {
+        margin-left: -627px;
+        margin-top: 62px;
+    }
+
+    #two .four {
+        margin-left: -574px;
+        margin-top: 35px;
+    }
+
+    #two .three h1 {
+        margin-left: 14px;
+        font-size: 40px;
+        font-weight: 600;
+        color: white;
+        display: block;
+    }
+
+    #two .main{
+        margin-top: 591px;
+    }
+    
+}
+
+@media screen and (max-width:349px) {
+
+    #two .three .makkah {
+        margin-left: -639px;
+        margin-top: 62px;
+    }
+
+    #two .two .right .curve {
+        margin-left: -83px;
+    }
+
+    #two .two .curve .a2 {
+        margin-left: -60%;
+    }
+
+    #two .two .curve .a3 {
+        margin-top: 45%;
+        margin-left: -60%;
+    }
+
+    #two .two .curve .a5 {
+        margin-top: 82%;
+        position: absolute;
+        margin-left: -60%;
+    }
+
+    #two .two .curve .a7 {
+        margin-top: 45%;
+    }    
+
+    #two .two .curve .a6 {
+        margin-top: 82%;
+    }
+
+    #two .two .curve .a4 {
+        margin-top: 119%;
+        margin-left: -132px;
+    }
+
+    #two .three .makkah .three img {
+        width: 280px;
+        border-radius: 2em;
+        height: 280px;
+        margin-left: 670px;
+    }
+
+    #two .three .two a {
+        margin-top: 269px;
+        position: absolute;
+        margin-left: 619px;
+    }
+
+    #two .four {
+        margin-left: -601px;
+        margin-top: 35px;
+    }
+    
+}
+
+@media screen and (max-width:320px) {
+    #two .two .right .curve {
+        margin-left: -100px;
+    }
+
+    #two .three .makkah {
+        margin-left: -650px;
+        margin-top: 62px;
+    }
+
+    #two .three h1 {
+        margin-left: 14px;
+        font-size: 38px;
+        font-weight: 600;
+        color: white;
+        display: block;
+    }
+
+    #two .three h1 {
+        margin-left: 32px;
+        font-size: 31px;
+        font-weight: 600;
+        color: white;
+        display: block;
+        margin-top: 2px;
+    }
+
+    #two .one h3 {
+        font-size: 33px;
+    }
+
+    #two .two .left p {
+        margin-top: 25px;
+        font-size: 12px;
+        color: black;
+        margin-left: -14px;
+        width: 226px;
+    }
+
+    #two .two .right a {
+        width: 100px;
+        height: 100px;
+    }   
+
+    #two .two .right .suii {
+        margin-left: 24px;
+        margin-top: -29px;
+        width: 55px;
+    }
+
+    #two .a1 p {
+        text-align: center;
+        font-size: 14px;
+        margin: 0;
+        line-height: 1;
+        margin-top: 11px;
+    }
+
+    #two .two .right .sui {
+        margin-left: 31px;
+        margin-top: -35px;
+        width: 41px;
+        position: absolute;
+    }
+
+    #two .two .right .suiii {
+        margin-left: 25px;
+        margin-top: -32px;
+        width: 51px;
+        height: 51px;
+    }
+
+    #two .two .right .suiiiiiii {
+        margin-left: 21px;
+        margin-top: -45px;
+        width: 61px;
+        height: 68px;
+    }
+
+    #two .two .right .suiiiii {
+        margin-left: 24px;
+        margin-top: -38px;
+        width: 45px;
+        height: 64px;
+    }
+
+    #two .two .right .suiiiiii {
+        margin-left: 29px;
+        margin-top: -37px;
+        width: 42px;
+        height: 54px;
+    }
+
+    #two .two .curve .a4 {
+        margin-top: 119%;
+        margin-left: -117px;
+    }
+
+    #two .two .right .suiiii {
+        margin-left: 26px;
+        margin-top: -39px;
+        width: 50px;
+        height: 56px;
+    }
+
+    #two .four {
+        margin-left: -613px;
+        margin-top: 35px;
+    }
+
+}

@@ -1,0 +1,815 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  font-weight: normal;
+  text-decoration: none;
+  outline: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+del {
+  text-decoration: line-through;
+}
+body {
+  font-family: "GT-Eesti", Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  color: #000;
+}
+input,
+textarea,
+select {
+  font-family: "GT-Eesti", Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+a {
+  color: #000;
+}
+.thumb {
+  display: block;
+}
+.thumb img {
+  display: block;
+  width: 100%;
+}
+p {
+  line-height: 1.6em;
+  font-size: 16px;
+  font-family: "GT-Eesti", Arial;
+  font-weight: 500;
+  color: #000;
+}
+.hidden {
+  display: none;
+}
+br.clear {
+  clear: both;
+  line-height: 0;
+}
+
+.flex-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+@font-face {
+  font-family: "GT-Eesti";
+  src: url("../fonts/GT-Eesti-Pro-Text-Light.woff2") format("woff2");
+  src: url("../fonts/GT-Eesti-Pro-Text-Light.woff") format("woff"),
+    url("../fonts/GT-Eesti-Pro-Text-Light.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT-Eesti";
+  src: url("../fonts/GT-Eesti-Pro-Text-Regular.woff2") format("woff2");
+  src: url("../fonts/GT-Eesti-Pro-Text-Regular.woff") format("woff"),
+    url("../fonts/GT-Eesti-Pro-Text-Regular.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT-Eesti";
+  src: url("../fonts/GT-Eesti-Pro-Text-Medium.woff2") format("woff2");
+  src: url("../fonts/GT-Eesti-Pro-Text-Medium.woff") format("woff"),
+    url("../fonts/GT-Eesti-Pro-Text-Medium.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GT-Eesti";
+  src: url("../fonts/GT-Eesti-Pro-Text-Bold.woff2") format("woff2");
+  src: url("../fonts/GT-Eesti-Pro-Text-Bold.woff") format("woff"),
+    url("../fonts/GT-Eesti-Pro-Text-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+#one .top {
+  box-sizing: border-box;
+  color: #000;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+#one .left {
+  margin-left: 137px;
+  padding-top: 158px;
+  background-color: #375c6e;
+  width: 243px;
+  border-bottom-left-radius: 26em;
+  position: fixed;
+  border-bottom-right-radius: 6em;
+  height: 280.5px;
+}
+#one .left a {
+  padding-left: 33px;
+}
+
+#one .left img {
+  width: 255px;
+  margin-top: -17px;
+}
+
+#one .left p {
+  color: white;
+  margin-top: -29px;
+  margin-left: 120px;
+  font-size: 12px;
+}
+
+#one .right {
+  right: 0;
+  padding-left: 1.2%;
+  padding-top: 50px;
+  position: fixed;
+  width: 457px;
+  height: 93px;
+  background-color: #375c6e;
+  border-bottom-left-radius: 4.5em;
+}
+
+#one .right .instagram {
+  width: 30px;
+}
+
+#one .right .a {
+  display: inline-block;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+#one .right .a:nth-child(4) {
+  position: absolute;
+  color: white;
+  margin-top: -4px;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+#one .right li:nth-child(5) img {
+  margin-left: 18px;
+  margin-top: -9px;
+  width: 23px;
+  position: absolute;
+}
+
+#one .right li:nth-child(5) p {
+  margin-left: 50px;
+  margin-top: -8px;
+  color: white;
+  position: absolute;
+  font-weight: 400;
+}
+
+#one .right li:nth-child(5) {
+  height: 17px;
+}
+
+#one .right .menu-button img {
+  position: absolute;
+  margin-left: 380px;
+  height: 36px;
+  margin-top: -33px;
+}
+
+.menu-button {
+  display: block;
+}
+
+.mobile-nav {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 24%;
+  height: 100%;
+  background-color: #375c6e;
+  z-index: 1000;
+  overflow-x: scroll;
+}
+
+.close-btn {
+  margin-right: 6%;
+  margin-top: 12%;
+  color: white;
+  font-size: 36px;
+  right: 0;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: end;
+}
+
+.design .g {
+  width: 25px;
+  margin-left: -38px;
+  margin-top: 0px;
+  position: absolute;
+}
+
+.design .z {
+  width: 26px;
+  position: absolute;
+  margin-top: -3px;
+  margin-left: -47px;
+}
+
+
+.h{
+  font-size: 15px;
+  font-weight: 400;
+  margin-left: 247px;
+}
+
+.design p {
+  margin-top: 52px;
+  margin-left: -193px;
+}
+
+.design a {
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+
+
+.design li {
+  display: inline-block;
+  margin-left: 23px;
+}
+
+.mobile-nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 24% auto;
+  text-align: center;
+}
+
+.ul li{
+  margin-top: 50px;   
+}
+
+.ul li a {
+  color: white;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+
+#two {
+  margin-left: 220px;
+  margin-right: 220px;
+}
+
+.content {
+  width: 712px;
+}
+
+.content h2 {
+  color: #dddddd;
+  margin-top: 160px;
+  font-size: 65px;
+  font-weight: 900;
+}
+
+.content p {
+  margin-top: 35px;
+  font-size: 16px;
+}
+
+.makkah img {
+  width: 365px;
+  height: 400px;
+  border-radius: 10%;
+}
+
+.makkah p {
+  position: absolute;
+  margin-top: 14px;
+  margin-left: 33px;
+  font-size: 28px;
+  color: white;
+  font-weight: 900;
+}
+
+.makkah a {
+  position: absolute;
+  margin-top: 355px;
+  margin-left: 22px;
+  color: white;
+  font-weight: 600;
+}
+
+.makkah {
+  margin-left: 220px;
+  margin-top: 85px;
+}
+
+.l p {
+  position: unset;
+  margin-left: 550px;
+  color: black;
+  margin-top: 180px;
+  position: absolute;
+}
+
+footer {
+  margin-top: 4%;
+  overflow: hidden;
+  z-index: 2;
+  background: #ffffffb8;
+  margin-left: -220px;
+  margin-right: -220px;
+}
+
+footer .container {
+  padding-top: 3%;
+}
+
+footer h4 {
+  color: #375c6e;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+footer a {
+  color: #6e6e6e;
+  font-weight: 100;
+}
+
+footer a span {
+  font-size: 11px;
+  color: #999;
+}
+
+footer p {
+  color: #6e6e6e;
+  line-height: 22px;
+  font-weight: normal;
+  font-weight: 100;
+}
+
+footer .centered {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer .row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  text-transform: uppercase;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+  line-height: 30.5px;
+}
+
+footer .container {
+  width: 53%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-left: 381.5px;
+  height: 360px;
+  background-image: url(../img/alhadi-business-logo.svg);
+  background-position: 159px;
+}
+
+.hanan {
+  text-transform: lowercase;
+}
+
+@media screen and (max-width: 1497px){
+footer .container {
+    width: 68%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: 291.5px;
+    height: 360px;
+}
+}
+
+@media (max-width:1256px) {
+  .mobile-nav {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #375c6e;
+    z-index: 1000;
+    overflow-x: scroll;
+}
+
+}
+
+@media screen and (max-width: 1199px){
+footer .container {
+    width: 79%;
+    margin-left: 166.5px;
+}
+}
+
+@media screen and (max-width:1159px) {
+  .makkah{
+    margin-left: 0;
+  }
+}
+
+@media screen and (
+max-width:1140px){
+
+#one .right .a:nth-child(1) {
+  display: none;
+}
+
+#one .right .a:nth-child(2) {
+  display: none;
+}
+
+#one .right .a:nth-child(3) {
+  display: none;
+}
+
+#one .right .a:nth-child(4) {
+  display: none;
+}
+
+#one .right .menu-button img {
+  margin-left: 208px;
+  margin-top: -19px;
+}
+
+#one .right .a:nth-child(6) img {
+  position: absolute;
+  margin-left: 160px;
+  height: 36px;
+  margin-top: -17px;
+}
+
+#one .right .a:nth-child(5) p {
+  margin-left: 67px;
+  margin-top: 7px;
+  color: white;
+  position: absolute;
+  font-weight: 400;
+}
+
+#one .right .a:nth-child(5) img {
+  margin-left: 28px;
+  margin-top: 6px;
+  width: 23px;
+  position: absolute;
+}
+
+#one .right {
+  right: 0;
+  padding-left: 1.2%;
+  padding-top: 50px;
+  position: fixed;
+  width: 264px;
+  height: 93px;
+  background-color: #375c6e;
+  border-bottom-left-radius: 4.5em;
+}   
+
+
+}
+
+@media screen and (max-width: 1092px){
+footer .container {
+    width: 87%;
+    margin-left: 79.5px;
+}
+
+.l p {
+  position: unset;
+  margin-left: 485px;
+  color: black;
+  margin-top: 180px;
+  position: absolute;
+}
+
+}
+
+@media screen and (max-width: 936px){
+footer .container {
+    width: 100%;
+    margin-left: 0;
+}
+
+.content {
+  width: 588px;
+}
+#two {
+  margin-left: 134px;
+  margin-right: 220px;
+}
+
+footer {
+  margin-top: 4%;
+  overflow: hidden;
+  z-index: 2;
+  background: #ffffffb8;
+  margin-left: -134px;
+  margin-right: -220px;
+}
+
+#one .left {
+  margin-left: 53px;
+  padding-top: 158px;
+  background-color: #375c6e;
+  width: 199px;
+  border-bottom-left-radius: 26em;
+  position: fixed;
+  border-bottom-right-radius: 6em;
+  height: 238.5px;
+}
+
+#one .left p {
+  color: white;
+  margin-top: -16px;
+  width: 91px;
+  margin-left: 80px;
+  font-size: 12px;
+}
+
+#one .left img {
+  width: 170px;
+  margin-top: -37px;
+}
+
+
+}
+
+@media screen and (max-width: 768px){
+
+  #one .left {
+    position: fixed;
+    top: -119px;
+    left: -55px;
+    background-color: #375c6e8f;
+}  
+
+#one .right li:nth-child(5) {
+  display: none;
+}
+
+.content {
+  width: 525px;
+}
+
+#one .right {
+  right: 0;
+  position: fixed;
+  width: 121px;
+  height: 93px;
+  background-color: #375c6e8f;
+  border-bottom-left-radius: 4.5em;
+}
+
+.menu-button {
+  display: block;
+  margin-left: -149px;
+  margin-top: 19px;
+}
+
+footer .row {
+    text-transform: uppercase;
+    margin-right: -15px;
+    margin-left: -15px;
+    line-height: 30.5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#two {
+  margin-left: 62px;
+  margin-right: 0px;
+}
+
+footer .container {
+  height: 500px;
+  margin-top: 30px;
+}
+
+footer{
+  width: 100%;
+  margin-left: 0;
+}
+
+.l p {
+  position: unset;
+  margin-left: 398px;
+  color: black;
+  margin-top: 180px;
+  position: absolute;
+}
+
+}
+
+@media (max-width:592px) {
+  .content {
+    width: 417px;
+}
+
+.l p {
+  margin-left: 137px;
+  margin-top: 455px;
+}
+
+footer {
+  margin-top: 40%;
+}
+
+.makkah {
+  margin-left: 20%;
+}
+
+.l p {
+  margin-left: 102px;
+  margin-top: 450px;
+}
+
+
+
+}
+
+@media (max-width:517px) {
+.makkah{
+  margin-left: 3%;
+}
+
+footer {
+  margin-top: 40%;
+  margin-left: -32px;
+}
+
+}
+
+@media (max-width:478px) {
+  #two {
+    margin-left: 24px;
+}
+}
+
+@media (max-width:440px) {
+  .content {
+    width: 320px;
+}
+}
+
+@media (max-width:430px) {
+  #one .left {
+    position: fixed;
+    top: -119px;
+    left: -55px;
+    background-color: #375c6e8f;
+    height: 212px;
+    width: 134px;
+}
+
+#one .left img {
+    width: 133px;
+    margin-top: -37px;
+}
+
+#one .left a {
+    padding-left: 14px;
+}
+
+#one .left p {
+  color: white;
+  margin-top: -16px;
+  width: 91px;
+  margin-left: 45px;
+  font-size: 9px;
+}
+
+}
+
+@media (max-width:425px){
+  footer {
+    margin-top: 40%;
+    margin-left: -32px;
+    height: 792px;
+}
+
+footer .centered {
+  margin-left: 41px;
+  margin-right: auto;
+}
+
+footer .row{
+  text-transform: uppercase;
+  margin-right: -15px;
+  margin-left: -15px;
+  line-height: 30.5px;
+  display: grid;
+  grid-template-columns: 1fr;
+}
+}
+
+@media (max-width:399px) {
+
+.makkah img {
+  width: 310px;
+  height: 381px;
+  border-radius: 10%;
+}
+
+.l p {
+  margin-left: 82px;
+  margin-top: 422px;
+}
+
+#two {
+  margin-left: 8px;
+}
+
+
+
+
+
+}
+
+@media (max-width:340px) {
+  .content h2 {
+    color: #dddddd;
+    margin-top: 121px;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.content p {
+  margin-top: 22px;
+  font-size: 12px;
+}
+
+.content {
+  width: 218px;
+}
+
+.makkah img {
+  width: 290px;
+  height: 350px;
+  border-radius: 10%;
+}
+
+.makkah p {
+  position: absolute;
+  margin-top: 9px;
+  margin-left: 15px;
+  font-size: 23px;
+  color: white;
+  font-weight: 900;
+}
+
+.makkah a {
+  position: absolute;
+  margin-top: 321px;
+  margin-left: 22px;
+  color: white;
+  font-weight: 600;
+}
+
+.l p {
+  position: unset;
+  margin-left: 86px;
+  color: black;
+  margin-top: 379px;
+  position: absolute;
+}
+
+}
+
+@media (max-width:320px) {
+  .makkah {
+    margin-left: 0%;
+}
+
+.makkah img {
+  width: 260px;
+  height: 350px;
+  border-radius: 10%;
+}
+
+
+}
